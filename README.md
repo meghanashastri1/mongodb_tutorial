@@ -13,6 +13,6 @@ References:
     - used this to create the inventory collection and populate it 
 
 Problems:
-- collection is not being populated, not able to connect with cloud cluster (I followed the Atlas tutorial)
+- collection is not being populated, not able to connect with cloud cluster (I followed the Atlas tutorial and installed the mongo shell, still wasn't connecting)
 
 
